@@ -22,11 +22,11 @@ Siga os passos abaixo para configurar e executar o chatbot:
 Abra o terminal e use o seguinte comando para clonar o projeto:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/MoreiraAlex/CrecheBot.git
 ```
 Navegue até a pasta do projeto:
 ```bash
-cd seu-repositorio
+cd CrecheBot
 ```
 
 #### 2. Configurar o Ambiente
