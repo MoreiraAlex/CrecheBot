@@ -1,6 +1,6 @@
-# Projeto CrecheBot
+# Projeto WorkBotDev
 
-Este projeto demonstra um chatbot simples, o **CrecheBot**, que atua como um assistente interno para orientar funcionários de uma creche sobre regras e rotinas. O chatbot foi desenvolvido utilizando a API do Google Gemini.
+Este projeto demonstra um chatbot simples, o **WorkBotDev**, que atua como um assistente interno para orientar funcionários de uma creche sobre regras e rotinas. O chatbot foi desenvolvido utilizando a API do Google Gemini.
 
 ---
 
@@ -22,11 +22,11 @@ Siga os passos abaixo para configurar e executar o chatbot:
 Abra o terminal e use o seguinte comando para clonar o projeto:
 
 ```bash
-git clone https://github.com/MoreiraAlex/CrecheBot.git
+git clone https://github.com/MoreiraAlex/WorkBotDev.git
 ```
 Navegue até a pasta do projeto:
 ```bash
-cd CrecheBot
+cd WorkBotDev
 ```
 
 #### 2. Configurar o Ambiente
